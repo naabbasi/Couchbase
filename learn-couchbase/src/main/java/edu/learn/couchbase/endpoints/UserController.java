@@ -1,9 +1,9 @@
-package edu.learn.learn_couchbase.endpoints;
+package edu.learn.couchbase.endpoints;
 
-import edu.learn.learn_couchbase.dtos.ResultDTO;
-import edu.learn.learn_couchbase.entities.User;
-import edu.learn.learn_couchbase.services.UserService;
-import edu.learn.learn_couchbase.utils.BeanValidator;
+import edu.learn.couchbase.dtos.ResultDTO;
+import edu.learn.couchbase.entities.User;
+import edu.learn.couchbase.services.UserService;
+import edu.learn.couchbase.utils.BeanValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package edu.learn.learn_couchbase;
+package edu.learn.couchbase;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

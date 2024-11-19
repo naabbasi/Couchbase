@@ -2,7 +2,7 @@
 The following was discovered as part of building this project:
 
 * No Docker Compose services found. As of now, the application won't start! Please add at least one service to the `compose.yaml` file.
-* The original package name 'edu.learn.learn-couchbase' is invalid and this project uses 'edu.learn.learn_couchbase' instead.
+* The original package name 'edu.learn.learn-couchbase' is invalid and this project uses 'edu.learn.couchbase' instead.
 
 # Getting Started
 

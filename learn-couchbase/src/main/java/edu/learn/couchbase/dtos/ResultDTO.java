@@ -1,4 +1,4 @@
-package edu.learn.learn_couchbase.dtos;
+package edu.learn.couchbase.dtos;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;

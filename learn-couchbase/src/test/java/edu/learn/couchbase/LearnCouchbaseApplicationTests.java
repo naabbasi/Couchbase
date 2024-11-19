@@ -1,4 +1,4 @@
-package edu.learn.learn_couchbase;
+package edu.learn.couchbase;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

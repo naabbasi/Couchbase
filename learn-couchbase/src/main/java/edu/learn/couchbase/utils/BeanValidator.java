@@ -1,6 +1,6 @@
-package edu.learn.learn_couchbase.utils;
+package edu.learn.couchbase.utils;
 
-import edu.learn.learn_couchbase.entities.User;
+import edu.learn.couchbase.entities.User;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validation;
 import jakarta.validation.Validator;

@@ -1,6 +1,6 @@
-package edu.learn.learn_couchbase.repositories;
+package edu.learn.couchbase.repositories;
 
-import edu.learn.learn_couchbase.entities.User;
+import edu.learn.couchbase.entities.User;
 import org.springframework.data.couchbase.repository.CouchbaseRepository;
 
 import java.util.Optional;

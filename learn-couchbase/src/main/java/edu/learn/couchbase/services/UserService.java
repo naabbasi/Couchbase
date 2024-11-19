@@ -1,7 +1,7 @@
-package edu.learn.learn_couchbase.services;
+package edu.learn.couchbase.services;
 
-import edu.learn.learn_couchbase.entities.User;
-import edu.learn.learn_couchbase.repositories.UserRepository;
+import edu.learn.couchbase.entities.User;
+import edu.learn.couchbase.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -30,7 +30,7 @@ public class UserService {
 	}
 
 	public Object updateUser(User reqData, User isData) {
-		isData.setName(reqData.getName());
+		isData.setFirstName(reqData.getFirstName());
 		isData.setEmail(reqData.getEmail());
 		isData.setMobNo(reqData.getMobNo());
 		isData.setPassword(reqData.getPassword());
